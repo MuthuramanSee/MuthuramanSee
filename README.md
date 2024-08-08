@@ -20,6 +20,11 @@
 - I run an Instagram page dedicated to illustration art, where I share my creative journey.
 - I'm also involved in sports, club organization, and volunteer work, which helps me stay balanced and motivated.
 
+## 📫 How to Reach Me
+- **Email:** (mailto:muthuraman.see@gmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/muthuramansee).
+- **Instagram:** (https://www.instagram.com/Muthuraman.see)
+
 
 <!---
 MuthuramanSee/MuthuramanSee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
